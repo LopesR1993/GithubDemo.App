@@ -26,7 +26,7 @@
 
             foreach (Person person in list)
             {
-                Console.WriteLine($"FirstName = {person.FirstName}\tLastName = {person.LastName}\tPlaceOfBirth = {person.PlaceOfBirth}");
+                Console.WriteLine($"First Name = {person.FirstName}\tLast Name = {person.LastName}\tPlace Of Birth = {person.PlaceOfBirth}");
             }
 
         }
