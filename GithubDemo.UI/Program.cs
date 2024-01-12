@@ -1,11 +1,10 @@
-﻿using System;
-namespace GithubDemo.Console
+﻿namespace GithubDemo.UI
 {
     internal class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Teste 1");
+            Console.WriteLine("Hello, Github");
         }
     }
 }
